@@ -1,0 +1,21 @@
+.section {
+  width: 100%;
+  padding: 24px 32px;
+  background-color: rgb(217, 188, 245);
+  display: flex;
+  justify-content: space-between;
+}
+.menulist {
+  width: 50%;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  font-size: large;
+  font-weight: 700;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
